@@ -1,5 +1,5 @@
 # shopify-clone
-Shopify landing page website design Clone with inspect using only html
+Shopify landing page website design Clone with inspect using only HTML5
 
 <center>
 
